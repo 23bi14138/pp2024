@@ -78,7 +78,7 @@ while True:
     elif choice == "4":
         course_list()
     elif choice == "5":
-        intput_mark()
+        input_mark()
     elif choice == "6":
         show_mark()
     else:
